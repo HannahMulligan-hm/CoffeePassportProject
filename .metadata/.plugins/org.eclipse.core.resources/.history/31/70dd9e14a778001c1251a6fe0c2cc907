@@ -1,0 +1,5 @@
+package com.hannahm.coffeePassport.models;
+
+public class User {
+
+}

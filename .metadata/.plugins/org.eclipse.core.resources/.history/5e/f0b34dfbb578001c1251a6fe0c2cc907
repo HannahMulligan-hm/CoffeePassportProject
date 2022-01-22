@@ -1,0 +1,7 @@
+package com.hannahm.coffeePassport.repository;
+
+@Repository
+public interface User extends CrudRepository <User, Long>{
+	List<User> findAll();
+
+}

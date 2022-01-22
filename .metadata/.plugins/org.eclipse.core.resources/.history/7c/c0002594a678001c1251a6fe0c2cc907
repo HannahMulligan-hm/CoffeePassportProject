@@ -1,0 +1,24 @@
+package com.hannahm.coffeePassport.models;
+@Entity
+@Table(name="entry")
+public class Entry {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	@NotNull
+	@Size(min = 5, max = 200)
+	private String coffeeName;
+	@NotNull
+	@Size(min = 5, max = 200)
+	private String roast;
+	@NotNull
+	@Size(min = 5, max = 200)
+	private String brewMethod;
+	@NotNull
+	@Size(min = 5, max = 200)
+	private String desc;
+	@NotNull
+	private String temp;
+	@NotNull
+	private String origin;
+}

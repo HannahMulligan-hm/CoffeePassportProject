@@ -1,0 +1,5 @@
+package com.hannahm.coffeePassport.services;
+
+public class UserService {
+
+}

@@ -1,0 +1,6 @@
+package com.hannahm.coffeePassport.repository;
+@Repository
+public interface Entry extends CrudRepository <Entry, Long>{
+	List<dict> findAll();
+
+}

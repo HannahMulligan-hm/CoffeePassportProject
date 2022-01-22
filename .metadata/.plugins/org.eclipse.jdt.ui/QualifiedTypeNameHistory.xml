@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="java.beans.Transient"/>
+    <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="javax.persistence.Transient"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.User"/>
+    <fullyQualifiedTypeName name="com.hannahm.coffeePassport.models.User"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.hannahm.coffeePassport.repository.EntriesRepository"/>
+    <fullyQualifiedTypeName name="com.hannahm.coffeePassport.repository.UserRepository"/>
+</qualifiedTypeNameHistroy>

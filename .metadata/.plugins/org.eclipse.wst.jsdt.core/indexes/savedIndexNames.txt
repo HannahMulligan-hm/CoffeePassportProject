@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/friday/Documents/workspace-spring-tool-suite-4-4.12.0.RELEASE/coffeePassport/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3132637216.index
+227346562.index
+3153907133.index
+1127663133.index
+2137786845.index
+657269104.index
